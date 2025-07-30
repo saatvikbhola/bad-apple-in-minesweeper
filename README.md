@@ -36,6 +36,8 @@ pip install opencv-python tqdm numpy pygame
 1.  Run `frames.py` to extract images from your video into the `frames/` folder.
 2.  Run `grid.py` to play the animation in your terminal.
 
+https://github.com/user-attachments/assets/087adaf9-170e-4475-9653-4b820baf719a
+
 ### Running the Minesweeper Animation
 
 1.  Ensure you have a `mine.png` image file in the same directory.
