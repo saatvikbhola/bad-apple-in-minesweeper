@@ -1,5 +1,3 @@
-# Video to Animation Suite Documentation
-
 ## 1. Overview
 
 This project uses a set of Python scripts to convert a standard video file into two types of animations:
