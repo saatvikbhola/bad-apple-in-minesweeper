@@ -46,6 +46,8 @@ https://github.com/user-attachments/assets/edac10b9-4368-455c-a8be-05f9460cd044
     * Press **SPACE** to play/pause the animation.
     * Use the **LEFT/RIGHT ARROW KEYS** to step through frames manually.
 
+https://github.com/user-attachments/assets/bf35d970-134e-48e1-abde-6020c145a935
+
 ## 5. File Documentation
 
 ### `frames.py`
