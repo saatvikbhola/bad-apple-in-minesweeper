@@ -40,7 +40,7 @@ pip install opencv-python tqdm numpy pygame
 
 1.  Ensure you have a `mine.png` image file in the same directory.
 2.  Run `frames.py` to extract images from your video into the `frames/` folder.
-3.  Run `play.py` to start the graphical animation in a new window.
+3.  Run `play.py` to start the graphical animation in a new window. (this takes time to run completly.)
     * Press **SPACE** to play/pause the animation.
     * Use the **LEFT/RIGHT ARROW KEYS** to step through frames manually.
 
