@@ -1,6 +1,6 @@
 ## 1. Overview
 
-This project uses a set of Python scripts to convert a standard video file into two types of animations:
+This project uses a set of Python scripts to convert a standard video file (download the bad apple music video in the same directory you clone this repo to) into two types of animations:
 
 1.  **Terminal Grid Animation**: A text-based animation that plays directly in your console.
 2.  **Minesweeper Animation**: A graphical animation that visualizes the video frames as a series of Minesweeper boards, rendered in a Pygame window.
