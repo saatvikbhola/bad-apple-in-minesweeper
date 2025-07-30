@@ -1,5 +1,5 @@
 import pygame
-from minesweeper_grid import load_all_game_states
+from minesweeper_utils import load_all_game_states
 
 # Constants
 CELL_SIZE = 20
@@ -27,7 +27,7 @@ TEXT_COLORS = {
 }
 
 # Load game states
-game_states = load_all_game_states('frames', grid_size=GRID_SIZE, mine_density=0.30)
+game_states = load_all_game_states('frames', grid_size=GRID_SIZE, mine_density=0.25)
 total_frames = len(game_states)
 
 # Initialize PyGame
@@ -51,7 +51,7 @@ def draw_grid(grid):
             x, y = j * CELL_SIZE, i * CELL_SIZE
             rect = pygame.Rect(x, y, CELL_SIZE, CELL_SIZE)
 
-            if cell == '#':
+            if cell in ("X","#"):
                 # Draw 3D button (raised)
                 pygame.draw.rect(screen, BG_COLOR, rect)
                 pygame.draw.line(screen, LIGHT_EDGE, (x, y), (x + CELL_SIZE - 1, y))  # top
