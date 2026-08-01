@@ -23,7 +23,7 @@ This project uses a set of Python scripts to convert a standard video file (down
 Before running the scripts, you need to install the necessary Python libraries.
 
 ```
-pip install opencv-python tqdm numpy pygame
+uv sync
 ```
 
 * **`opencv-python`**, **`tqdm`**, **`numpy`**: Required for the core video processing.
