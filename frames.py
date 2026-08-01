@@ -36,4 +36,4 @@ def extract_frames(video_path, output_folder, frame_rate=1):
     print(f"Extracted {saved_count} frames to {output_folder}")
 
 # Example usage: Extract 1 frame per second
-extract_frames("video.mp4", "frames", frame_rate=30)  # Adjust frame_rate as needed
+extract_frames("bad-apple.mp4", "frames", frame_rate=30)  # Adjust frame_rate as needed
