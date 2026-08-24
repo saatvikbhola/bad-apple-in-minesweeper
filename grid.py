@@ -42,4 +42,4 @@ def play_animation_from_folder(folder_path, grid_size, delay=0.1):
         time.sleep(delay)
 
 # Example usage (44 58)
-play_animation_from_folder('frames', grid_size=(40, 40), delay=0.03)
+play_animation_from_folder('frames', grid_size=(50, 50), delay=0.00)
