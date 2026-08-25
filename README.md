@@ -92,3 +92,10 @@ The conversion from an image to a Minesweeper board happens in a two-step proces
 ### `play.py` (For Minesweeper Animation)
 
 * **Purpose**: The main script for the graphical animation. It loads the Minesweeper states and uses Pygame to render them in a window with interactive controls.
+
+------------
+
+true color rendered in ghostty terminal 
+
+https://github.com/user-attachments/assets/196e11ca-fa39-4e39-a853-1c6a5dd9244f
+
